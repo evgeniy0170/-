@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Microsoft Office User</Author>
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <Created>2022-09-14T07:22:19Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>17120</WindowHeight>
+  <WindowWidth>28240</WindowWidth>
+  <WindowTopX>1200</WindowTopX>
+  <WindowTopY>440</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Arial Unicode MS" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="325"/>
+   <Row ss:Index="2" ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">&lt;?</Font><Font
+       html:Color="#0000FF">xml</Font><Font html:Color="#000000"> </Font><Font
+       html:Color="#0000FF">version</Font><Font html:Color="#000000">=&quot;</Font><Font
+       html:Color="#008800">1.0</Font><Font html:Color="#000000">&quot; </Font><Font
+       html:Color="#0000FF">encoding</Font><Font html:Color="#000000">=&quot;</Font><Font
+       html:Color="#008800">UTF-8</Font><Font html:Color="#000000">&quot;?&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">&lt;</Font><Font
+       html:Color="#0000FF">rates</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">  &lt;</Font><Font
+       html:Color="#0000FF">item</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">from</Font><Font html:Color="#000000">&gt;</Font><Font
+       html:Color="#EE0000">USDT</Font><Font html:Color="#000000">&lt;/</Font><Font
+       html:Color="#0000FF">from</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">to</Font><Font html:Color="#000000">&gt;USD&lt;/</Font><Font
+       html:Color="#0000FF">to</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">in</Font><Font html:Color="#000000">&gt;</Font><Font
+       html:Color="#EE0000">1</Font><Font html:Color="#000000">&lt;/</Font><Font
+       html:Color="#0000FF">in</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">out</Font><Font html:Color="#000000">&gt;0.97&lt;/</Font><Font
+       html:Color="#0000FF">out</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">amount</Font><Font html:Color="#000000">&gt;</Font><Font
+       html:Color="#EE0000">50000</Font><Font html:Color="#000000">&lt;/</Font><Font
+       html:Color="#0000FF">amount</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">param</Font><Font html:Color="#000000">&gt;</Font><Font
+       html:Color="#EE0000">manual</Font><Font html:Color="#000000">&lt;/</Font><Font
+       html:Color="#0000FF">param</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">  &lt;/</Font><Font
+       html:Color="#0000FF">item</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">  &lt;</Font><Font
+       html:Color="#0000FF">item</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">from</Font><Font html:Color="#000000">&gt;</Font><Font
+       html:Color="#EE0000">USD</Font><Font html:Color="#000000">&lt;/</Font><Font
+       html:Color="#0000FF">from</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">to</Font><Font html:Color="#000000">&gt;</Font><Font
+       html:Color="#EE0000">USDT</Font><Font html:Color="#000000">&lt;/</Font><Font
+       html:Color="#0000FF">to</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">in</Font><Font html:Color="#000000">&gt;</Font><Font
+       html:Color="#EE0000">1</Font><Font html:Color="#000000">&lt;/</Font><Font
+       html:Color="#0000FF">in</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">out</Font><Font html:Color="#000000">&gt;</Font><Font
+       html:Color="#EE0000">1</Font><Font html:Color="#000000">&lt;/</Font><Font
+       html:Color="#0000FF">out</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">    &lt;</Font><Font
+       html:Color="#0000FF">amount</Font><Font html:Color="#000000">&gt;</Font><Font
+       html:Color="#EE0000">50000</Font><Font html:Color="#000000">&lt;/</Font><Font
+       html:Color="#0000FF">amount</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">  &lt;/</Font><Font
+       html:Color="#0000FF">item</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell ss:Index="2" ss:StyleID="s62"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">&lt;/</Font><Font
+       html:Color="#0000FF">rates</Font><Font html:Color="#000000">&gt;</Font></ss:Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>17</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
